@@ -1,1 +1,1 @@
-# straitigraphic-humanist
+# stratigraphic-humanist
